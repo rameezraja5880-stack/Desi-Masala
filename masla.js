@@ -4,7 +4,7 @@ const products = [
         name: "Haldi Powder (Turmeric)",
         description: "Pure and vibrant turmeric powder for daily cooking and health.",
         price: 250,
-        image: "https://images.unsplash.com/photo-1615486171448-4af62c2f6d28?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+        image: "images/Turmeric-Powder.webp"
     },
     {
         id: 2,
@@ -18,7 +18,7 @@ const products = [
         name: "Dhaniya Powder (Coriander)",
         description: "Aromatic and finely ground coriander powder for an authentic taste.",
         price: 200,
-        image: "https://images.unsplash.com/photo-1599909653554-478a87fbd527?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+        image: "images/daniya powder.jpg"
     },
     {
         id: 4,
